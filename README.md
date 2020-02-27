@@ -1,9 +1,9 @@
-# Apex Game Tools
+# ChaosMind Game Tools
 
-All products related to path finding an steering can be found under **Apex Path Suite**.
+All products related to path finding an steering can be found under **ChaosMind Path Suite**.
 
-Apex Utility AI found under **Apex Utility AI**.
+ChaosMind Utility AI found under **ChaosMind Utility AI**.
 
-The Apex libraries used by both product are found under **Apex Libraries**.
+The ChaosMind Utility libraries used by both product are found under **ChaosMind Utility Libraries**.
 
 
